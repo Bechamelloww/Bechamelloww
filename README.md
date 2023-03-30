@@ -1,5 +1,5 @@
-### Hi there 👋
-[![MasterHead](https://avatars.githubusercontent.com/u/112951402?v=4)](https://github.com/Bechamelloww)
+### Bonjour 👋
+
 #### I'm a french student at Ynov Lyon, currently in Bachelor 1.
 
 [![Bech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bechamelloww&show_icons=true&theme=codeSTACKr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
