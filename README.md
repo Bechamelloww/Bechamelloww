@@ -1,7 +1,7 @@
 ### Bonjour 👋
 
 #### I'm a french student at Ynov Lyon, currently in Bachelor 1.
-<img align="right" alt="Coding" width="400" src="https://github.com/Bechamelloww/Bechamelloww/blob/main/oie_png.png?raw=true">
+<img align="right" alt="Coding" src="https://github.com/Bechamelloww/Bechamelloww/blob/main/oie_png.png?raw=true">
 
 [![Bech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bechamelloww&show_icons=true&theme=codeSTACKr&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
