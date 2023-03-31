@@ -2,6 +2,8 @@
 
 #### I'm a french dev student at Ynov Lyon, currently in Bachelor 1.
 
+<img href="https://0gc.com/" src="https://img.shields.io/badge/My Website-Check-<COLOR>.svg" >
+
 <div align="center">
   <h2>Some stats about my Git</h2>
 <img src="https://camo.githubusercontent.com/226a4816c46e236aba493114fafb3873c4bbc65d8545c045ba850a6b7061d4ac/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d42656368616d656c6c6f77772673686f775f69636f6e733d74727565267468656d653d636f6465535441434b7226686964655f626f726465723d74727565">
