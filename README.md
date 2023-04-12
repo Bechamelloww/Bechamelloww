@@ -2,7 +2,7 @@
 
 #### I'm a french dev student at Ynov Lyon, currently in Bachelor 1.
 
-<img onclick="location.href='https://0gc.com/'" src="https://img.shields.io/badge/My Website-Check-<COLOR>.svg">
+[<img alt="alt_text" src="https://img.shields.io/badge/My Website-Check-<COLOR>.svg" />](https://0gc.com/)
 
 <div align="center">
   <h2>Some stats about my Git</h2>
