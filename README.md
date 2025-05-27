@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-#### I'm a french dev student at Ynov Lyon, currently in Bachelor 2.
+#### I'm a french dev student at Ynov Lyon, currently in Bachelor 3 Dev.
 
 [<img alt="alt_text" src="https://img.shields.io/badge/My Website-Check-<COLOR>.svg" />](https://0gc.com/)
 
