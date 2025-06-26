@@ -3,7 +3,7 @@
 #### I'm a french dev student at Ynov Lyon, currently in Bachelor 3 Dev.
 
 <div align="center">
-  <h1>Mon Portfolio</h1>
+  <h1>My Portfolio</h1>
   
   [<img width="100%" alt="f761fd70f9090958df850ed9dc10ec2f33c50bd87becd8f6f2c768bb990cc982" src="https://github.com/user-attachments/assets/3977b4c8-b3c7-4f44-a163-68cb9cd260b3" />](https://gabrielmarie.com/)
   
