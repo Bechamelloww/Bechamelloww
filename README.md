@@ -1,6 +1,6 @@
 ### Bonjour 👋
 
-#### I'm a french dev student at Ynov Lyon, currently in Bachelor 3 Dev.
+#### I'm a french dev.
 
 <div align="center">
   <h1>My Portfolio</h1>
